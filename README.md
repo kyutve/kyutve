@@ -8,3 +8,5 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://azurei.tistory.com/")
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyutve)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
