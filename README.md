@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=KYUTVE's%20Github&fontSize=50&animation=twinkling&fontAlign=70&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Kyutve's%20Github&fontSize=50&animation=twinkling&fontAlign=70&fontAlignY=36)
 
 <!--
 **kyutve/kyutve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
