@@ -2,4 +2,4 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kkt4837})](https://solved.ac/{kkt4837})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkt4837)](https://solved.ac/kkt4837)
